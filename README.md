@@ -51,6 +51,12 @@ This project presents a comprehensive sales analysis dashboard for Amazon produc
 - **Visualization**: Microsoft Power BI
 - **Data Modeling**: Power BI DAX formulas and calculated measures
 
+## 🛠️ Tools Used
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-0B6DB7?style=for-the-badge&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power%20Query-006272?style=for-the-badge&logoColor=white)
+
 ## Data Structure
 The analysis is based on Amazon sales data including:
 - Product information (category, name, price)
