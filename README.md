@@ -107,30 +107,10 @@ amazon-sales-dashboard/
 ![Product Overview]
 <img width="974" height="547" alt="Image" src="https://github.com/user-attachments/assets/a0d78e4a-cd98-464d-a7de-3607b86bb634" />
 
-## Future Enhancements
-- [ ] Add predictive analytics for sales forecasting
-- [ ] Implement real-time data integration
-- [ ] Include customer segmentation analysis
-- [ ] Add geographic sales analysis
-- [ ] Develop mobile-responsive dashboard
-- [ ] Include inventory optimization insights
-
 ## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-- **Author**: [Your Name]
-- **Email**: [Your Email]  
-- **LinkedIn**: [Your LinkedIn Profile]
-- **Portfolio**: [Your Portfolio Website]
-
-## Acknowledgments
-- Data source: Amazon sales data
-- Inspiration: Business intelligence and data visualization best practices
-- Tools: [List the tools and libraries used]
-
 ---
 ⭐ If you found this project helpful, please give it a star!
