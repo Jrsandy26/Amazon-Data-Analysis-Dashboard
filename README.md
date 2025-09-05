@@ -61,7 +61,7 @@ The analysis is based on Amazon sales data including:
 ## Installation & Setup
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/amazon-sales-dashboard.git
+git clone https://github.com/Jrsandy26/Amazon-Data-Analysis-Dashboard.git
 cd amazon-sales-dashboard
 ```
 
