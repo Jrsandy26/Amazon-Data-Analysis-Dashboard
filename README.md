@@ -5,6 +5,8 @@
 ## Project Overview
 This project presents a comprehensive sales analysis dashboard for Amazon products, featuring interactive visualizations and key performance indicators (KPIs) to provide actionable business insights. The dashboard analyzes sales data to track revenue performance, product categories, and sales trends.
 
+Live View = (https://tvscrm-my.sharepoint.com/:u:/r/personal/kumars_tvsscs_com/Documents/amazon-dashboard.pbix?csf=1&web=1&e=3cnydy)
+
 <img width="977" height="545" alt="Image" src="https://github.com/user-attachments/assets/1933734d-f08e-48a1-95ca-265462bce962" />
 
 ## Key Metrics & Insights
